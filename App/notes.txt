@@ -1,0 +1,11 @@
+1. Dirancang dengan menggunakan tools & teknologi yang terdapat pada homepage
+2. Untuk DB menggunakan SQLite demi mengurangi waktu explorasi installasi & konfigurasi SQL Server
+3. Untuk sample query menggunakan 3 jenis teknologi:
+   - SQL Query : View, RentalController
+   - LinQ : RentalController
+   - LambdaExpression: RentalController, LockerController, CustomerController
+4. API sudah dirancang secara restful
+5. Validasi tidak dibangun secara kompleks (salah satunya tidak ada pengecekan terhadap length pada field).
+6. Proses delete data dilakukan secara hard-delete (ditujukan untuk memberikan sample query remove data secara permanen)
+7. UI Transaksi dirancang secara Master & Details, namun detail data hanya mengacu pada transaksi rantal aktif saja
+   Konsep master detail dapat di break-down dengan mengacu pada masing-masing transaksi (active, returned, totalTrans)

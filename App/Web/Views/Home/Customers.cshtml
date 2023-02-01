@@ -1,0 +1,105 @@
+@{
+    ViewData["Title"] = "Customers Data";
+}
+
+@section Styles {
+    <link href="https://unpkg.com/bootstrap-table@1.21.2/dist/bootstrap-table.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css" />
+}
+
+@section Scripts {
+    <script src="https://unpkg.com/bootstrap-table@1.21.2/dist/bootstrap-table.min.js"></script>
+    <script src="~/js/page/customers.min.js" asp-append-version="true"></script>
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="page-header">
+                    <h2 id="tables">Customers Data</h2>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="buttons-toolbar float-end"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <table 
+                    id="table" 
+                    class="table table-bordered table-hover table-striped"
+                    data-toggle="table" 
+                    data-url="/api/Customers"
+                    data-side-pagination="server" 
+                    data-pagination="true"
+                    data-id-field="id"
+                    data-page-list="[1, 5, 10, 25, 50, 100, all]"
+                    data-height="700"
+                    data-search="true"
+                    data-show-search-clear-button="true"
+                    data-show-refresh="true"
+                    data-show-columns="true"
+                    data-show-columns-toggle-all="true"
+                    data-buttons-toolbar=".buttons-toolbar"
+                    data-buttons="lawencon.ui.toolbarButtons"
+                    >
+                    <thead>
+                        <tr class="tr-class-1">
+                            <th data-sortable="true" data-field="id" data-visible="false" data-valign="middle" rowspan="2">ID</th>
+                            <th data-sortable="true" data-field="name" data-valign="middle" rowspan="2">Name</th>
+                            <th data-sortable="true" data-field="nik" data-valign="middle" rowspan="2">NIK</th>
+                            <th colspan="2" data-align="center">Contacts</th>
+                            <th data-valign="middle" rowspan="2" data-formatter="lawencon.ui.grid.formatter.actions" data-events="lawencon.events.grid.actions" data-align="center" data-width="200">Actions</th>
+                        </tr>
+                        <tr class="tr-class-2">
+                            <th data-sortable="true" data-field="hp">HP</th>
+                            <th data-sortable="true" data-field="email" data-formatter="lawencon.ui.grid.formatter.email">Email</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <form id="editorForm">
+        <div class="modal fade" id="editorModal" data-bs-backdrop="static" data-bs-keyboard="true" tabindex="-1" aria-labelledby="editorModalLabel" aria-hidden="true">
+            <div class="modal-dialog" id="waitDialog">
+                <div class="modal-content">
+                    <div class="modal-header bg-primary text-white">
+                        <h5 class="modal-title" id="staticBackdropLabel"><strong>Customer Form</strong></h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="form-alert-container" style="display: none;"></div>
+                        <div class="mb-3" hidden>
+                            <label for="txtId" class="form-label">ID</label>
+                            <input type="text" class="form-control" id="txtId" readonly />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtName" class="form-label">* Name</label>
+                            <input type="text" class="form-control" id="txtName" style="text-transform: uppercase;" />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtNik" class="form-label">* NIK</label>
+                            <input type="text" class="form-control" id="txtNik" style="text-transform: uppercase;" />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtHp" class="form-label">* HP</label>
+                            <input type="tel" class="form-control" id="txtHp" style="text-transform: uppercase;" />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtEmail" class="form-label">* Email</label>
+                            <input type="email" class="form-control" id="txtEmail" style="text-transform: uppercase;" />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"><strong>Cancel</strong></button>
+                        <button type="submit" class="btn btn-primary"><strong>Save</strong></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

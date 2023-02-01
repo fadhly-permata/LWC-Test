@@ -1,0 +1,156 @@
+@{
+    ViewData["Title"] = "Rent Transactions";
+}
+
+@section Styles {
+    <link href="https://unpkg.com/bootstrap-table@1.21.2/dist/bootstrap-table.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css" />
+}
+
+@section Scripts {
+    <script src="https://unpkg.com/bootstrap-table@1.21.2/dist/bootstrap-table.min.js"></script>
+    <script src="~/js/page/rents.min.js" asp-append-version="true"></script>
+}
+
+<div class="row">
+    <div class="col mx-auto">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="page-header">
+                    <h2 id="tables">Rent Transactions</h2>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="buttons-toolbar float-end"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <table 
+                    id="table" 
+                    class="table table-bordered table-hover table-striped"
+                    data-toggle="table" 
+                    data-url="/api/rentals"
+                    data-side-pagination="server" 
+                    data-pagination="true"
+                    data-id-field="id"
+                    data-page-list="[1, 5, 10, 25, 50, 100, all]"
+                    data-height="950"
+                    data-search="true"
+                    data-show-search-clear-button="true"
+                    data-show-refresh="true"
+                    data-show-columns="true"
+                    data-show-columns-toggle-all="true"
+                    data-buttons-toolbar=".buttons-toolbar"
+                    data-buttons="lawencon.ui.toolbarButtons"
+                    data-show-footer="true"
+                    data-detail-view="true"
+                    data-detail-formatter="lawencon.ui.grid.formatter.details"
+                    >
+                    <thead>
+                        <tr class="tr-class-1">
+                            <th data-sortable="true" data-field="customerId" data-visible="false" data-valign="middle" rowspan="2">Cust ID</th>
+                            <th data-sortable="true" data-field="name" data-valign="middle" rowspan="2" data-footer-formatter="lawencon.ui.grid.formatter.footer.label">Customer</th>
+                            <th colspan="3" data-align="center">Transactions</th>
+                            <th  data-sortable="true"rowspan="2" data-align="right" data-field="totalPaidFine" data-valign="middle" data-width="300" data-formatter="lawencon.ui.grid.formatter.money" data-footer-formatter="lawencon.ui.grid.formatter.footer.fine">Total Paid Fine</th>
+                        </tr>
+                        <tr class="tr-class-2">
+                            <th data-sortable="true" data-field="totalActiveRent" data-width="300" data-align="right" data-cell-style="lawencon.ui.grid.style.rented" data-footer-formatter="lawencon.ui.grid.formatter.footer.rented">Rented</th>
+                            <th data-sortable="true" data-field="totalReturned" data-width="300" data-align="right" data-footer-formatter="lawencon.ui.grid.formatter.footer.returned">Returned</th>
+                            <th data-sortable="true" data-field="totalRentTrans" data-width="300" data-align="right" data-footer-formatter="lawencon.ui.grid.formatter.footer.trans">Totals</th>
+                        </tr>
+                    </thead>
+                </table>
+
+                <table id="detailTable"></table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <form id="editorForm">
+        <div class="modal fade" id="editorModal" data-bs-backdrop="static" data-bs-keyboard="true" tabindex="-1" aria-labelledby="editorModalLabel" aria-hidden="true">
+            <div class="modal-dialog" id="waitDialog">
+                <div class="modal-content">
+                    <div class="modal-header bg-primary text-white">
+                        <h5 class="modal-title" id="staticBackdropLabel"><strong>Open Locker</strong></h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="form-alert-container" style="display: none;"></div>
+                        <div class="mb-3" hidden>
+                            <label for="txtId" class="form-label">ID</label>
+                            <input type="text" class="form-control" id="txtId" readonly />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtLockerNumber" class="form-label">Locker Number</label>
+                            <input type="text" class="form-control" id="txtLockerNumber" style="text-transform: uppercase;" readonly />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtTotalDays" class="form-label">Total Days</label>
+                            <input type="text" class="form-control" id="txtTotalDays" style="text-transform: uppercase;" readonly />
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtPassword" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="txtPassword" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label d-block"></label>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" id="chkForgotPassword" type="checkbox" name="" data-sb-validations="" />
+                                <label class="form-check-label" for="chkForgotPassword">Forgot Password</label>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="txtTotalFine" class="form-label">Total Fine</label>
+                            <input type="text" class="form-control form-control-lg text-end" id="txtTotalFine" readonly />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"><strong>Cancel</strong></button>
+                        <button type="submit" class="btn btn-primary"><strong>Save</strong></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="row">
+    <form id="RentNewForm">
+        <div class="modal fade" id="rentNewModal" data-bs-backdrop="static" data-bs-keyboard="true" tabindex="-1" aria-labelledby="rentNewModalLabel" aria-hidden="true">
+            <div class="modal-dialog" id="rentNewDialog">
+                <div class="modal-content">
+                    <div class="modal-header bg-primary text-white">
+                        <h5 class="modal-title" id="staticBackdropLabel"><strong>Rent A Locker</strong></h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="form-alert-container" style="display: none;"></div>
+                        <div class="form-floating mb-3">
+                            <select class="form-select" id="selectCustomer" aria-label="Select Customer">
+                                <option value="Fadhly">Fadhly</option>
+                                <option value="Haura">Haura</option>
+                                <option value="Humaira">Humaira</option>
+                            </select>
+                            <label for="selectCustomer">Select Customer</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <select class="form-select" id="selectLocker" aria-label="Select Locker">
+                                <option value="A1">A1</option>
+                                <option value="A2">A2</option>
+                                <option value="A3">A3</option>
+                                <option value="A4">A4</option>
+                                <option value="A5">A5</option>
+                            </select>
+                            <label for="selectLocker">Select Locker</label>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"><strong>Cancel</strong></button>
+                        <button type="submit" class="btn btn-primary"><strong>Save</strong></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,145 @@
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/bin/Debug/net7.0/CLI
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.deps.json
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.runtimeconfig.json
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.pdb
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.AssemblyReference.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfoInputs.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfo.cs
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.CoreCompileInputs.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/refint/CLI.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.pdb
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.genruntimeconfig.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/CLI/obj/Debug/net7.0/ref/CLI.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.deps.json
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.runtimeconfig.json
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.pdb
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/AutoMapper.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/FluentValidation.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x64/native/libsqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Repo.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Repo.pdb
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.AssemblyReference.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfoInputs.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfo.cs
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.CoreCompileInputs.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.CopyComplete
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/refint/CLI.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.pdb
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.genruntimeconfig.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/ref/CLI.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.deps.json
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.runtimeconfig.json
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/CLI.pdb
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/AutoMapper.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/FluentValidation.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x64/native/libsqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Repo.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/bin/Debug/net7.0/Repo.pdb
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.AssemblyReference.cache
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfoInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.AssemblyInfo.cs
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.CoreCompileInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.csproj.CopyComplete
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/refint/CLI.dll
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.pdb
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/CLI.genruntimeconfig.cache
+/media/permata/Data/IntTest/LawenconV2/App/CLI/obj/Debug/net7.0/ref/CLI.dll

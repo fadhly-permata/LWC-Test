@@ -1,0 +1,42 @@
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.AssemblyReference.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfoInputs.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfo.cs
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.CoreCompileInputs.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.deps.json
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.runtimeconfig.json
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.pdb
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/refint/Repo.dll
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.pdb
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.genruntimeconfig.cache
+/media/permata/Data/- Int-Test/LawenconV2/App/Repo/obj/Debug/net7.0/ref/Repo.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.deps.json
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.runtimeconfig.json
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.pdb
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.AssemblyReference.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.GeneratedMSBuildEditorConfig.editorconfig
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfoInputs.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfo.cs
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.CoreCompileInputs.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/refint/Repo.dll
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.pdb
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.genruntimeconfig.cache
+/home/permata/Documents/DataD/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/ref/Repo.dll
+/media/permata/Data/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.deps.json
+/media/permata/Data/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.runtimeconfig.json
+/media/permata/Data/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.dll
+/media/permata/Data/IntTest/LawenconV2/App/Repo/bin/Debug/net7.0/Repo.pdb
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.AssemblyReference.cache
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfoInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.AssemblyInfo.cs
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.csproj.CoreCompileInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.dll
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/refint/Repo.dll
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.pdb
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/Repo.genruntimeconfig.cache
+/media/permata/Data/IntTest/LawenconV2/App/Repo/obj/Debug/net7.0/ref/Repo.dll

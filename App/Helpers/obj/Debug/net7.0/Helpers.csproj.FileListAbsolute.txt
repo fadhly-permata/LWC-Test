@@ -1,0 +1,12 @@
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/bin/Debug/net7.0/Helpers.deps.json
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/bin/Debug/net7.0/Helpers.dll
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/bin/Debug/net7.0/Helpers.pdb
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.csproj.AssemblyReference.cache
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.AssemblyInfoInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.AssemblyInfo.cs
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.csproj.CoreCompileInputs.cache
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.dll
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/refint/Helpers.dll
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/Helpers.pdb
+/media/permata/Data/IntTest/LawenconV2/App/Helpers/obj/Debug/net7.0/ref/Helpers.dll
